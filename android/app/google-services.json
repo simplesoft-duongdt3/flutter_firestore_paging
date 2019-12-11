@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593590942239",
+    "firebase_url": "https://demoqueryfirestore.firebaseio.com",
+    "project_id": "demoqueryfirestore",
+    "storage_bucket": "demoqueryfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593590942239:android:21b010c93509978a6df32a",
+        "android_client_info": {
+          "package_name": "com.tinyappsteam.flutter_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593590942239-djfvte8enp12cfi8dt1u8rrcdfhnscbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6e8NKo0d2nVo80gOQXViJmtnIJy2toYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593590942239-djfvte8enp12cfi8dt1u8rrcdfhnscbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
